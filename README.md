@@ -10,9 +10,9 @@
 ### Méthodolodie :
 
 - Recherches des méthodes pré-entrainés pour effectué la tâche de détection d'objets
-- utilisation  du modèle  pré-entrainés  fasterRCNN-resnet50 avec  la librairie fiftyone
-- Exploration du modèle avec les données COCO qui a été utilisées pour entrainer le modèle: Nous avons sélectionner 4 classes à détecterà savoir: cat,dog,apple,et orange
-- Utilisation du meme modèle pour détetcion des images collecter sur l'internet de meme classe que précédemment (voir le répertoire images
-- Tentative d'entrainner avec les 4 classes et calcul des metrics d'évaluation; mAp,préciosn, rappel, accuracy, matrice de confusion.
+- utilisation  du modèle  pré-entrainés  fasterRCNN-resnet50 avec  la librairie fiftyone sur python
+- Exploration du modèle avec les données COCO qui a été utilisées pour entrainer le modèle: Nous avons sélectionné 4 classes à détecter à savoir: cat,dog,apple,et orange
+- Utilisation du même modèle pour détecter des images collecter sur l'internet de meme classe que précédemment (voir my_images.zip et resultats_detect.zip)
+- Tentative d'entrainner avec les 4 classes et calcul des metrics d'évaluation; mAp,préciosn, rappel, accuracy, matrice de confusion(voir mc1.jpg,mc2.jpg)
 
 
